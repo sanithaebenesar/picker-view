@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController{
     @IBOutlet weak var inputTF: UITextField!
     let pickerView = UIPickerView()
-    var array = ["A","B","C","D","E"]
+    var array = ["A","B","C","D","E","F"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
